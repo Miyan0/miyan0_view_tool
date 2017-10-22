@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 ```ruby
-Miyan0ViewTool::Renderer.copyright 'Your Company Name', 'All rights reserved'
+$ Miyan0ViewTool::Renderer.copyright 'Your Company Name', 'All rights reserved'
 ```
 ## Development
 
