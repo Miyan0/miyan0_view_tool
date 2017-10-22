@@ -1,6 +1,7 @@
 # Miyan0ViewTool
 
 > Various view specific methods for applications I use.
+> From Rails course on Udemy.
 
 ## Installation
 
